@@ -84,6 +84,9 @@ The dashboard was published to Power BI Service, and a scheduled refresh was con
 
 ## 📬 Contact
 
-**Author: Kumkum Pal**
-**LinkedIn: https://www.linkedin.com/in/kumkum-pal-56992b239/**
-**GitHub: https://github.com/darktornedo**
+If you’d like to connect or have any questions about this project, feel free to reach out:
+
+- **Name:** Kumkum Pal  
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/kumkum-pal-56992b239/)  
+- **GitHub:** [GitHub Profile](https://github.com/darktornedo)  
+- **Email:** kumkumpal404@gmail.com
