@@ -1,6 +1,6 @@
 # 🌤️ Live Weather Dashboard using Power BI & OpenWeather API
 
-![Weather Dashboard Preview](./dashboard-preview.png)
+![Weather Dashboard Preview](weather_dashboard_preview.jpg)
 
 ## 📌 Project Overview
 This Power BI dashboard provides **live weather insights** for 6 major Indian cities using **OpenWeather’s Free APIs**.  
