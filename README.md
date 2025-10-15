@@ -78,8 +78,8 @@ The dashboard was published to Power BI Service, and a scheduled refresh was con
 
 
 ## 🙌 Acknowledgements
-**[OpenWeather Website](https://openweathermap.org/)** for providing free access to weather and air quality data.
-**Power BI** for its robust visualization and transformation capabilities.
+- **[OpenWeather Website](https://openweathermap.org/)** for providing free access to weather and air quality data.
+- **Power BI** for its robust visualization and transformation capabilities.
 
 
 ## 📬 Contact
