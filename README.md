@@ -9,6 +9,7 @@ It fetches **real-time data**, **5-day weather forecasts**, and **air quality da
 The dashboard is designed to **auto-refresh daily**, ensuring users always see the latest weather information.
 
 
+
 ## 🧠 Key Features
 - 🌡 **Current Weather**: Displays live temperature, weather conditions, humidity, visibility, wind speed, pressure, cloud cover, and real feel temperature.  
 - 📅 **5-Day Forecast**: Line chart showing average temperature trends across different times of the day for upcoming 5 days.  
@@ -16,6 +17,7 @@ The dashboard is designed to **auto-refresh daily**, ensuring users always see t
 - 🌬 **Air Quality Index (AQI)**: Includes major air pollutants like PM10, PM2.5, O3, SO2, NO2, and CO with live AQI status.  
 - 🏙 **Population by Cities**: Static dataset showing population for selected cities.  
 - 🔄 **Scheduled Auto Refresh**: Data is refreshed daily through Power BI Service to keep the dashboard updated.
+
 
 
 ## 🌍 Cities Covered
@@ -31,12 +33,14 @@ The dashboard includes live and forecast data for the following cities:
 | Shillong    | 25.5788  | 91.8933   |
 
 
+
 ## 🔧 Tools & Technologies Used
 - **Power BI Desktop** – for data modeling and dashboard design  
 - **Power Query** – for data transformation (date/time conversions, cleaning, formatting)  
 - **OpenWeather API (Free Plan)** – for fetching current weather, forecast, and air quality data  
 - **DAX** – for custom calculated columns and measures (e.g., temperature formatting, time periods, sunrise/sunset conversion)  
 - **Power BI Service** – for publishing and scheduling auto refresh
+
 
 
 ## 🌐 Data Sources
@@ -54,6 +58,7 @@ Three different OpenWeather API endpoints were used:
 All data was imported into Power BI using the **“Web” connector** and transformed using Power Query.
 
 
+
 ## 🧠 Data Transformation Highlights
 - Converted UNIX timestamps to IST using DAX:
   ```DAX
@@ -61,6 +66,7 @@ All data was imported into Power BI using the **“Web” connector** and transf
   Categorized time of day into Morning, Afternoon, Evening, and Night for temperature trend analysis.
   Formatted visibility, pressure, and temperature values for better readability.
   Removed duplicate records and kept daily unique forecasts per city.```
+
 
 
 ## 🕒 Auto Refresh Configuration
@@ -78,6 +84,6 @@ The dashboard was published to Power BI Service, and a scheduled refresh was con
 
 ## 📬 Contact
 
-Author: Kumkum Pal
-LinkedIn: https://www.linkedin.com/in/kumkum-pal-56992b239/
-GitHub: https://github.com/darktornedo
+**Author: Kumkum Pal**
+**LinkedIn: https://www.linkedin.com/in/kumkum-pal-56992b239/**
+**GitHub: https://github.com/darktornedo**
