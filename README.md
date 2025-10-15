@@ -74,7 +74,7 @@ The dashboard was published to Power BI Service, and a scheduled refresh was con
 
 
 ## 📷 Dashboard Preview
-[![Dashboard Preview](https://powerbi.com/groups/me/reports/1dca07a3-2a2d-4afe-8f2c-bdc7b837584c/189656c01bbe01d3ce38?experience=power-bi)
+[![Dashboard Preview](https://app.powerbi.com/reportEmbed?reportId=1dca07a3-2a2d-4afe-8f2c-bdc7b837584c&autoAuth=true&ctid=ac2422ac-2dc0-4f83-8573-2fbb3c89e417)
 
 
 ## 🙌 Acknowledgements
