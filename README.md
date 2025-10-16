@@ -62,7 +62,7 @@ All data was imported into Power BI using the **“Web” connector** and transf
 ## 🧠 Data Transformation Highlights
 - Converted UNIX timestamps to IST using DAX:
   ```DAX
-  Sunrise_IST = 'Table'[sunrise] / 86400 + DATE(1970,1,1) + TIME(5,30,0)```
+  Sunrise_IST = 'Table'[sunrise] / 86400 + DATE(1970,1,1) + TIME(5,30,0) 
 - Categorized time of day into Morning, Afternoon, Evening, and Night for temperature trend analysis.
 - Formatted visibility, pressure, and temperature values for better readability.
 - Removed duplicate records and kept daily unique forecasts per city.
